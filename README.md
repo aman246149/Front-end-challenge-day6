@@ -1,5 +1,6 @@
 # Frontend Mentor - Blogr landing page
 
+# site url live https://aman246149.github.io/Front-end-challenge-day6/
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
